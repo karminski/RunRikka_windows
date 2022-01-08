@@ -1,32 +1,29 @@
-# RunCat_for_windows
+# RunRikka_windows
 
-**A cute running cat animation on your windows taskbar.**
 
-[![Github issues](https://img.shields.io/github/issues/Kyome22/RunCat_for_windows)](https://github.com/Kyome22/RunCat_for_windows/issues)
-[![Github forks](https://img.shields.io/github/forks/Kyome22/RunCat_for_windows)](https://github.com/Kyome22/RunCat_for_windows/network/members)
-[![Github stars](https://img.shields.io/github/stars/Kyome22/RunCat_for_windows)](https://github.com/Kyome22/RunCat_for_windows/stargazers)
-[![Top language](https://img.shields.io/github/languages/top/Kyome22/RunCat_for_windows)](https://github.com/Kyome22/RunCat_for_windows/)
-[![Release](https://img.shields.io/github/v/release/Kyome22/RunCat_for_windows)]()
-[![Github license](https://img.shields.io/github/license/Kyome22/RunCat_for_windows)](https://github.com/Kyome22/RunCat_for_windows/)
+**Base on RunCat_for_windows from Kyome22. Modified by Karminski-牙医.**
+
 
 # Tags
 
-`C#` `.NET Core 3.1` `Visual Studio` `RunCat`
+`C#` `.NET Core 3.1` `Visual Studio` `RunCat` `RunRikka`
 
 # Demo
 
-![Demo](RunCat/resources/runcat_demo.gif)
+![Demo](RunCat/resources/run_rikka_demo.gif)
 
-**You only have to run the RunCat.exe.**
+**You only have to run the RunRikka.exe**
 
 # Installation
 
-**Access to the "Releases" page and download the RunCat.exe.**
+**Access to the "Releases" page and download the RunRikka.exe**
+
+**点击右侧 "Releases" 下载 RunRikka.exe**
 
 # Contributors
 
 <a href="https://github.com/Kyome22/RunCat_for_windows/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kyome22/RunCat_for_windows" />
+  Original RunCar Contributors 
 </a>
 
 <!-- Please do not delete the below comment. -->
