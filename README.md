@@ -53,7 +53,7 @@ dotnet publish \
 # Contributors
 
 <a href="https://github.com/Kyome22/RunCat_for_windows/graphs/contributors">
-  Original RunCar Contributors 
+  Original RunCat Contributors 
 </a>
 
 <!-- Please do not delete the below comment. -->
